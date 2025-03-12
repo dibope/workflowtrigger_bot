@@ -1,7 +1,7 @@
 # workflowtrigger_bot
 Discord bot to trigger a github workflow
 
-Setup this your server host. Am currently using [Serv00](https://www.serv00.com/)
+Setup this your server host or ur own server if u have. Am currently using [Serv00](https://www.serv00.com/). replit offers 20hrs per month, didn't try [infinityfree](https://www.infinityfree.com/) but take a look 
 
 ### Setup
 #### Changes to be done to bot.py
