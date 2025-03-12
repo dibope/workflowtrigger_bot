@@ -35,4 +35,12 @@ users_usage   # Displays Usage of that day
 
 reset_usage   # Resets usage
 
-![PAT](https://github.com/dibope/workflowtrigger_bot/blob/main/image.png)
+##### Creating Personal access token
+1) Expiration : no expiration
+
+2) Repository access : all repositories 
+
+3) Permissions : Actions (read and write); Workflow(read and write)
+        
+![PAT1](https://github.com/dibope/workflowtrigger_bot/blob/main/PAT1.jpg)
+![PAT2](https://github.com/dibope/workflowtrigger_bot/blob/main/PAT2.jpg)
