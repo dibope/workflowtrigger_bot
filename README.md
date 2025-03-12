@@ -3,8 +3,8 @@ Discord bot to trigger a github workflow
 
 Setup this your server host. Am currently using [Serv00](https://www.serv00.com/)
 
-#### Setup
-##### Changes to be done to bot.py
+### Setup
+#### Changes to be done to bot.py
 (Don't remove double quotes, change content in it)
 
 DISCORD_TOKEN = "MTM0NT1234567890"        # Create a bot in developer.discord there u will get it
@@ -22,12 +22,12 @@ ALLOWED_SERVER_ID = 1234567890123456789  # Replace with your Discord server ID
 
 NOTIFY_CHANNEL_ID = 1234567890123456789  # Channel where notification is sent (for workflow trigger logs) or just comment it out if not needed
 
-###### Cooldown & daily limit system
+##### Cooldown & daily limit system
 COOLDOWN_TIME = 600  # 600 seconds (10 minutes) cooldown per user
 
 MAX_USES_PER_DAY = 6  # Limit per user per day
 
-#### Commands
+### Commands
 
 run_mc        # Triggers REPO
 
@@ -35,7 +35,7 @@ users_usage   # Displays Usage of that day
 
 reset_usage   # Resets usage
 
-##### Creating Personal access token
+#### Creating Personal access token
 1) Expiration : no expiration
 
 2) Repository access : all repositories 
