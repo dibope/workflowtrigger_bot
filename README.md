@@ -22,7 +22,7 @@ ALLOWED_SERVER_ID = 1234567890123456789  # Replace with your Discord server ID
 
 NOTIFY_CHANNEL_ID = 1234567890123456789  # Channel where notification is sent (for workflow trigger logs) or just comment it out if not needed
 
-##### Cooldown & daily limit system
+#### Cooldown & daily limit system (in bot.py as well)
 COOLDOWN_TIME = 600  # 600 seconds (10 minutes) cooldown per user
 
 MAX_USES_PER_DAY = 6  # Limit per user per day
@@ -33,7 +33,7 @@ run_mc        # Triggers REPO
 
 users_usage   # Displays Usage of that day 
 
-reset_usage   # Resets usage
+reset_usage   # Resets usage (it resets every 24 hrs but incase u need to)
 
 #### Creating Personal access token
 1) Expiration : no expiration
