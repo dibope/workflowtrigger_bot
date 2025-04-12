@@ -38,7 +38,7 @@ reset_usage   # Resets usage (it resets every 24 hrs but incase u need to)
 #### Creating Personal access token
 1) Expiration : no expiration
 
-2) Repository access : all repositories 
+2) Repository access : all repositories (or the repo u want) 
 
 3) Permissions : Actions (read and write); Workflow(read and write)
         
