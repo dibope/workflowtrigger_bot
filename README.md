@@ -6,6 +6,7 @@ Setup this in your host vps or ur own server. Am currently using [Serv00](https:
 ### Setup
 #### Changes to be done to bot.py 
 (mcserverstarter has changed and run_mc command needs to be changed but i think i won't. use public bot which i divided into manageble files and is upto date)
+
 (Just use public bot if you think you can make mistakes or don't want to edit code. public bot is easier to manage)
 (Don't remove double quotes, change content in it)
 
