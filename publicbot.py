@@ -1,3 +1,8 @@
+
+
+###########    DEPRECATED    ###########
+
+
 import discord
 import sqlite3
 from discord import app_commands
