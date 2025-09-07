@@ -4,7 +4,7 @@ Discord bot to trigger a github workflow
 Setup this in your host vps or ur own server. Am currently using [Serv00](https://www.serv00.com/). replit offers 20hrs per month, didn't try aws and oracle(they give free plan but ask credit card details) 
 
 ### Setup
-#### Changes to be done to bot.py
+#### Changes to be done to bot.py (Just use public bot if you think you can make mistakes or don't want to edit code. public bot is easier to manage)
 (Don't remove double quotes, change content in it)
 
 DISCORD_TOKEN = "MTM0NT1234567890"        # Create a bot in developer.discord there u will get it
